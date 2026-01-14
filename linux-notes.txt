@@ -1,0 +1,8 @@
+LINUX COMMANDS:
+cd:change directory.
+ls:lists all the folders in that particular directory we are in.
+mkdir:used to create new directory.
+rm:used to remove files from the directory.
+touch:command used to create a new file.
+nano:used to edit a file or also used to create a file.
+cat:used to read a file.
